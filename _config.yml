@@ -1,0 +1,23 @@
+name: ender
+favicon: null
+layout_spectrum: 0.30624522757716477
+typography_spectrum: 0.3420934150926769
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3691105905454606
+  lightness: 0.2458823835477233
+  saturation: 0.23402856616303325
+  rhythmicContrast: 0.9020457956939936
+purpose: []
