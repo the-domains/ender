@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ender]]></title>
+        <description><![CDATA[ender]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 07 Nov 2015 18:42:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Eerste foto's]]></title>
+            <description><![CDATA[<article><h1>Eerste foto's</h1><p>test 1 2 3</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ab24d6a-4945-4e4b-a69c-b09e8606d1f3.jpg"></article>]]></description>
+            <link>undefinedeerste-fotos/index.html</link>
+            <guid isPermaLink="false">08dec60c-8f9d-473a-a003-4169db5c54fc</guid>
+            <pubDate>Sat, 07 Nov 2015 18:41:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
