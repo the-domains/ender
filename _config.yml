@@ -1,7 +1,7 @@
 name: ender
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.28639
+layout_spectrum: 0.36261
+typography_spectrum: 0.0187
 title: 'Ender is here!'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#a1b2b9'
-    - '#5894ad'
-    - '#8a6f28'
-    - '#6e787b'
-    - '#9b917a'
-  brandStrength: 0.8125
-  lightness: 0.125
-  saturation: 0.6875
-  rhythmicContrast: 0.75
+    - '#6ca3b8'
+    - '#9abbcf'
+    - '#726b5c'
+    - '#158fab'
+    - '#748e97'
+  brandStrength: 0.75
+  lightness: 0.8125
+  saturation: 0.1875
+  rhythmicContrast: 1
 purpose: []
