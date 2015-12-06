@@ -2,6 +2,7 @@ name: ender
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.28639
+title: 'Ender is here!'
 cta:
   domain: null
   bucket: null
